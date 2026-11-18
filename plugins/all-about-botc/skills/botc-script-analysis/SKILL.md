@@ -1,6 +1,6 @@
 ---
 name: botc-script-analysis
-description: BOTC 커스텀 스크립트(캐릭터 시트 이미지·JSON)를 인원별 선악 밸런스·플레이 경험·존재감 기준으로 분석하고, 결과를 제목 달린 캡처형 PNG와 원본 zip으로 만들 때 사용.
+description: BOTC 커스텀 스크립트(캐릭터 시트 이미지·JSON)를 인원별 선악 밸런스·플레이 경험·존재감 기준으로 분석하고, 결과를 제목 달린 캡처형 PNG(원본 zip 포함)나 PDF로 만들 때 사용.
 ---
 
 # BOTC 커스텀 스크립트 분석 + 캡처형 이미지 제작
@@ -153,6 +153,21 @@ with sync_playwright() as p:
 
 - 결과 폭은 2000px이어야 한다(아니면 레이아웃 오버플로 → 수정 후 재렌더).
 - 파일명: 시트이름을 영문/숫자/밑줄로 정리 + `_분석.png` (예: `Devils_Plan_1.2_분석.png`).
+
+## PDF로 원할 때
+
+사용자가 PDF를 원하면 같은 HTML을 PDF로도 저장한다. 표가 페이지 경계에서 잘리지 않게 `tr{page-break-inside:avoid}`를 스타일에 더한다.
+
+```bash
+cd <작업 폴더> && python3 -c "
+from playwright.sync_api import sync_playwright
+import os
+with sync_playwright() as p:
+    b=p.chromium.launch(); pg=b.new_page()
+    pg.goto('file://'+os.path.abspath('cap.html')); pg.wait_for_timeout(500)
+    pg.pdf(path='out/<파일명>_분석.pdf',format='A4',print_background=True,margin={'top':'12mm','bottom':'12mm','left':'10mm','right':'10mm'}); b.close()
+"
+```
 
 ## 검수
 

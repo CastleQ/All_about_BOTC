@@ -1,0 +1,64 @@
+name: 예외 규칙 제보
+description: TPI 공식 답변, 비공인 징크스, 공식 위키에 없는 판정을 알려 주세요.
+title: "[예외 규칙] 캐릭터A × 캐릭터B"
+labels: ["예외 규칙 제보"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        제보해 주셔서 고맙습니다. 확인 후 `기타예외규칙.md`에 기록합니다.
+        **TPI 공식 답변은 누구나 확인할 수 있는 링크가 있어야 공식으로 기록됩니다.** 링크가 없으면 "룰 해석"이나 "진행 지침"으로 분류합니다.
+  - type: input
+    id: characters
+    attributes:
+      label: 관련 캐릭터
+      description: 공식 한글 이름으로 적어 주세요. 홈브류 캐릭터라면 "(홈브류)"를 붙여 주세요.
+      placeholder: 예) 암살자 × 건달
+    validations:
+      required: true
+  - type: textarea
+    id: situation
+    attributes:
+      label: 상황
+      description: 언제(몇째 날, 밤/낮, 밤 순서), 누가, 무엇을 했는지 적어 주세요.
+      placeholder: 예) 첫날 밤, 암살자가 건달을 선택함
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: 처리 결과
+      description: 이 상황을 어떻게 처리해야 하는지 적어 주세요.
+      placeholder: |
+        1. 건달이 죽는다.
+        2. 건달은 악 진영이 된다.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 분류
+      description: 잘 모르겠으면 "잘 모르겠음"을 고르세요.
+      options:
+        - 공식 답변 (TPI·관계자가 직접 답함)
+        - 비공인 징크스 (공식 징크스 목록에는 없지만 공식 답변이 있음)
+        - 공식 위키 (영어 원문 위키에 적혀 있음)
+        - 룰 해석 (공식 규정은 없고 능력문·룰북에서 도출)
+        - 진행 지침 (이야기꾼 재량을 어떻게 판단할지)
+        - 하우스룰
+        - 잘 모르겠음
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: 출처
+      description: 디스코드 메시지 링크, 레딧 글, 공식 위키 문서 주소 등. 답한 사람이 TPI 팀원이면 이름도 적어 주세요.
+      placeholder: https://...
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: 참고·진행 시 메모 (선택)
+      description: 룰을 엄밀하게 적용했을 때와 결과가 다르다면 그 이유, 진행할 때 주의할 점 등

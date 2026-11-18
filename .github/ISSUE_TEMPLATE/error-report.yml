@@ -1,0 +1,26 @@
+name: 오류 신고
+description: 번역 위키·용어·룰북의 오역, 또는 플러그인이 잘못 판정한 내용을 알려 주세요.
+title: "[오류] "
+labels: ["오류"]
+body:
+  - type: input
+    id: where
+    attributes:
+      label: 어디에서
+      description: 파일 이름이나 캐릭터 이름, 또는 Claude가 잘못 답한 질문
+      placeholder: 예) wiki/characters/townsfolk/pixie.md "진행 방법"
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: 무엇이 틀렸나요
+    validations:
+      required: true
+  - type: textarea
+    id: right
+    attributes:
+      label: 올바른 내용과 근거
+      description: 영어 원문 위키·룰북·용어집·TPI 답변 등 근거를 함께 적어 주세요.
+    validations:
+      required: true

@@ -1,0 +1,16 @@
+name: 아이디어 제안
+description: 새 스킬, 기능, 자료 추가를 제안해 주세요.
+title: "[아이디어] "
+labels: ["아이디어"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: 어떤 것이 있으면 좋을까요
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: 언제 쓰고 싶나요
+      description: 이 기능이 필요했던 실제 상황을 적어 주시면 큰 도움이 됩니다.

@@ -48,14 +48,15 @@ description: BOTC 커스텀 스크립트(캐릭터 시트 이미지·JSON)를 �
 6. **밀주업자(Bootlegger)는 언급하지 않는다.** 사용자가 따로 요청할 때만 다룬다. 공식 스크립트 도구에 외부 JSON을 한 번이라도 넣어 내보내면 자동으로 붙는 로고이고, 한글 번역 때문에 JSON을 직접 번역해 이미지로만 출력하는 경우가 많아서다.
 7. **매 분석은 독립시행이다.** 같은 대화에서 이전에 분석한 다른 시트가 있더라도 비교·대조·언급을 넣지 않는다. 각 분석은 그 시트 하나만 다루는 독립된 자료다.
 8. **모자 장수는 단점으로 보지 않는다.** 판을 통째로 새로 짜는 것이 모자 장수의 존재 의의이며, 선한 팀에 처형할지 유보할지의 딜레마를 준다.
-9. **4장 "나쁜 플레이 경험" 요인마다 강도(상·중·하·변동)를 매긴다.** 행은 상 → 중 → 변동 → 하 순서로 정렬한다. 강도를 판단한 근거(얼마나 자주, 누구에게, 얼마나 크게)가 "문제" 칸에 드러나게 쓴다.
+9. **5장 "나쁜 플레이 경험" 요인마다 강도(상·중·하·변동)를 매긴다.** 행은 상 → 중 → 변동 → 하 순서로 정렬한다. 강도를 판단한 근거(얼마나 자주, 누구에게, 얼마나 크게)가 "문제" 칸에 드러나게 쓴다.
    - **상:** 인원대·모임과 관계없이 자주 나타나고, 게임의 승패나 재미를 크게 해친다. 이야기꾼 운영만으로는 충분히 완화하기 어렵다.
    - **중:** 인원대·모임과 관계없이 특정 셋업(특정 악마·하수인 조합 등)에서 분명히 체감된다. 또는 이야기꾼 운영으로 일부만 완화된다.
    - **하:** 드물게 나타나거나 체감이 작다. 표의 "완화 방안"(안내·이야기꾼 운영)만으로 충분히 해결된다.
    - **변동:** 인원대(플레이어 수)나 모임의 숙련도(초보 위주/숙련자 위주)에 따라 강도가 크게 달라진다. 문제 칸에 어떤 조건에서 강해지고 약해지는지 적는다. (예: "10~11인·초보 모임에서는 상, 14~15인·숙련자 모임에서는 하")
-10. **5장 "캐릭터 교체 제안" 작성 규칙**
-    - **대상:** 4장에서 강도 상·중인 요인만 다룬다. 강도 하·변동인 요인에는 캐릭터 대안을 제시하지 않는다(하는 4장의 완화 방안으로 충분하고, 변동은 인원대·모임에 따라 이야기꾼이 조정할 문제이므로). 4장에 상·중 요인이 없으면 5장에는 "교체가 필요한 단점이 없다"고 쓰고 이유를 한 줄로 적는다.
-    - **개수:** 제안은 1~3개만 한다. 강도 상 요인을 먼저 다룬다. 4장의 단점과 직접 연결되는 것만 쓰고, 연결 없는 취향성 교체는 쓰지 않는다.
+   - **집착 캐릭터가 많을 때:** 시트에 집착을 요구하거나 일으키는 캐릭터가 3개 이상이면, 집착 이행 때문에 낮 토론 시간이 불필요하게 소모되는 것을 강도 **하** 요인으로 넣는다. 1~2개면 넣지 않는다(집착은 원래 그런 피로를 주는 역할의 능력이다).
+10. **6장 "캐릭터 교체 제안" 작성 규칙**
+    - **대상:** 5장에서 강도 상·중인 요인만 다룬다. 강도 하·변동인 요인에는 캐릭터 대안을 제시하지 않는다(하는 5장의 완화 방안으로 충분하고, 변동은 인원대·모임에 따라 이야기꾼이 조정할 문제이므로). 5장에 상·중 요인이 없으면 6장에는 "교체가 필요한 단점이 없다"고 쓰고 이유를 한 줄로 적는다.
+    - **개수:** 제안은 1~3개만 한다. 강도 상 요인을 먼저 다룬다. 5장의 단점과 직접 연결되는 것만 쓰고, 연결 없는 취향성 교체는 쓰지 않는다.
     - **우선순위:** ① 같은 유형 교체(주민은 주민으로, 하수인은 하수인으로)를 먼저 검토한다. ② 유형 변경 교체(예: 주민 칸을 외지인으로)는 후순위다. 같은 유형 교체로 그 단점이 해결되지 않거나, 유형을 바꾸는 쪽이 분명히 더 나을 때만 제안하고, 같은 유형 교체로 부족한 이유를 근거에 적는다.
     - **유형별 개수 권장 상한:** 주민 14, 외지인 4, 하수인 4, 악마 4 이하.
       - 교체한 뒤의 시트가 권장 상한을 넘게 되는 제안은, 강도 상 요인을 해소하는 대안일 때만 제시한다. 이때 근거에 "권장 상한 초과"와 그래도 제안하는 이유를 적는다.
@@ -75,11 +76,11 @@ description: BOTC 커스텀 스크립트(캐릭터 시트 이미지·JSON)를 �
     - 기계공: 이미 참여 중인 캐릭터를 만들려 하면 아무 변화 없이 능력이 소모됨 → 다시 시도하지 못하게 하는 자물쇠
     - **원칙:** 1회 능력이 취함·중독이나 대상 불일치로 실패해도 소모되는 처리는 모두 자물쇠다. 예: 처단자(중독·취한 상태로 써도 다시 못 씀), 성결자(처음 지목된 뒤 중독·취한 상태였어도 능력을 잃음), 교수(외지인·하수인·악마를 고르면 아무 일 없이 능력이 사라짐), 기계공, 메제펠레스.
     - **능력 겹침을 막는 징크스도 자물쇠처럼 다룬다.** 정보를 틀어지게 하지 않는 장치다. 예: 아가씨 + 미망인/첩자(아가씨 중독), 거리의 악사 + 연금술사(둘 다 맨정신이면 둘 다 취함).
-    - 자물쇠는 이야기꾼의 판단을 요구하지 않는다. 분석 자료에서는 그냥 무시한다(아래 기예꾼 같은 판정 예외만 7장에 적는다).
+    - 자물쇠는 이야기꾼의 판단을 요구하지 않는다. 분석 자료에서는 그냥 무시한다(아래 기예꾼 같은 판정 예외만 8장에 적는다).
     - **자물쇠로 보지 않는 것:** 상태가 실제 정보에 영향을 주면 오염 원인으로 센다.
       - 식인종: 악한 플레이어가 처형되면 중독. 이야기꾼이 가짜 능력 정보를 줄 수 있다.
       - 철학자: 이미 참여 중인 캐릭터를 고르면 원래 주인이 취함. 원래 주인이 받는 정보가 틀어진다.
-    - 단, 자물쇠 상태도 규칙상으로는 진짜 취함·중독이다. 다른 캐릭터의 판정(예: 기예꾼)에 영향을 주는 경우는 7장 "판정할 때 미리 알아둘 점"에만 적는다.
+    - 단, 자물쇠 상태도 규칙상으로는 진짜 취함·중독이다. 다른 캐릭터의 판정(예: 기예꾼)에 영향을 주는 경우는 8장 "판정할 때 미리 알아둘 점"에만 적는다.
 12. **이야기꾼 부담은 "계속 신경 써야 하는 판단"만 센다.**
     - 리마인더 토큰을 한 번 올려 두면 이후 따로 신경 쓸 것이 없는 처리는 이야기꾼 부담(난도 근거, 3단계 "이야기꾼 부담")으로 세지 않는다. 예: 노 다시 이웃 중독, 이발사·뱀 조련사의 캐릭터 교체 처리.
     - 이야기꾼이 게임 결과에 큰 영향을 주는 선택을 해야 하는 경우는 부담으로 센다. 예: 꼭두각시를 악마의 양옆 중 누구로 할지. 이것은 "자리 배치"라고 쓰지 말고 "악마의 양옆 중 누구를 꼭두각시로 할지(이야기꾼 재량)"라고 쓴다.
@@ -136,17 +137,18 @@ awk '/^## 요약/{p=1} /^## 진행/{p=0} p' <파일들> | grep -E "^- "
 
 ## 4단계: 보고 구조 (이 순서·형식 고정)
 
-1. **결론 문단** — 가장 균형 좋은 인원대, 소/대인원 경향, 핵심 재미(콘셉트), 약점 3가지. 이어서 **플레이어 난도·이야기꾼 난도를 별점(★ 5점 만점)과 근거**로 적는다.
+1. **결론 문단** — 특정 캐릭터 몇 개에 꽂히지 말고 시트 전체를 보고 판단한 내용을 쓴다. ① 이 시트에서 가장 재미있다고 보는 요인이나 상호작용, ② 그것이 시트의 테마와 맞물려 있는지(맞물림이 보이지 않으면 보이지 않는다고 쓴다), ③ 가장 균형이 좋다고 판단한 인원수 하나(인원대별 경향은 2장에 둔다). 이어서 **플레이어 난도·이야기꾼 난도를 별점(★ 5점 만점)과 근거**로 적는다.
 2. **인용 블록** — 작성자/출처, 공식 캐릭터 확인 여부, 실험 캐릭터 수와 목록.
 3. `---`
 4. `## 1. 구성 요약` — 표(유형 | 구성 | 성격) + 징크스 행 → **중요:** 핵심 구조 통찰(오정보 원인 수 등).
-5. `## 2. 인원별 선악 밸런스 (실전 데이터가 아니라 이론상 추정)` — 표(악마 × 10~11인/12~13인/14~15인) → 특수 변수 문단 → **인원대별 판단 근거**(불릿) → **이야기꾼 운영 권장** (기타예외규칙 0번 원칙, 번호 목록). 외지인 ± 선택을 권할 때는 "외지인은 악에게 이득" 같은 일반론이 아니라 그 시트의 구체적 이유를 적는다(예: 대부의 추가 처치 기회, 특정 외지인의 즉시 패배 위험).
-6. `## 3. 좋은 플레이 경험을 만드는 요인` — 굵은 소제목 불릿.
-7. `## 4. 나쁜 플레이 경험을 만드는 요인` — 표(요인 | 강도 | 문제 | 완화 방안). 강도는 상·중·하·변동, 행은 상 → 중 → 변동 → 하 순서("분석 기준" 9번).
-8. `## 5. 캐릭터 교체 제안` — 4장의 강도 상·중 단점을 캐릭터 교체로 보완하는 방법("분석 기준" 10번). 표(교체할 캐릭터 | 대체 후보 | 교체 방식(같은 유형 / 유형 변경) | 해결하는 단점(4장의 어느 행인지, 강도 포함) | 새로 생기는 문제·징크스). 같은 유형 교체를 표 위쪽에, 유형 변경 교체를 아래쪽에 둔다. 표 아래에 제안마다 1~2줄 근거(밸런스 이동 방향 포함)를 단다.
-9. `## 6. 캐릭터별 존재감` — 표(높음/중간/낮음) + 불균형 지점 + "균등 분배가 꼭 정답은 아니다(조용한 캐릭터 = 블러핑 공간)" 관점과 손볼 칸 제안. 손볼 칸 제안에는 교체안을 직접 쓰지 않고 "5장 참고"로 연결한다(같은 제안을 두 번 쓰지 않는다).
-10. `## 7. 판정할 때 미리 알아둘 점` — 징크스 위키 원문, 기타예외규칙 연결, 헷갈리기 쉬운 상호작용.
-11. `---` + 역질문 + 후속 제안(이미지화, PDF, 문서화 등).
+5. `## 2. 인원별 선악 밸런스 (실전 데이터가 아니라 이론상 추정)` — 표(악마 × 10~11인/12~13인/14~15인) → 특수 변수 문단 → **인원대별 판단 근거**(불릿).
+6. `## 3. 이야기꾼 운영 권장` — 번호 목록. 기타예외규칙 0번 원칙에 근거하되, "(아래 선택은 모두 선악의 유리함을 가급적 맞추려는 의도로 합니다. 기타예외규칙 0번 원칙)" 같은 안내 문구는 쓰지 않는다. 외지인 ± 선택을 권할 때는 "외지인은 악에게 이득" 같은 일반론이 아니라 그 시트의 구체적 이유를 적는다(예: 대부의 추가 처치 기회, 특정 외지인의 즉시 패배 위험).
+7. `## 4. 좋은 플레이 경험을 만드는 요인` — 번호 목록. 각 항목은 굵은 소제목으로 시작한다.
+8. `## 5. 나쁜 플레이 경험을 만드는 요인` — 표(요인 | 문제 | 완화 방안). 강도(상·중·하·변동)는 열을 따로 두지 않고 요인 칸의 요인명 아래에 적는다(답변: `요인명<br>강도: 상`, PDF·PNG: 게이지 막대, 2부 참고). 행은 상 → 중 → 변동 → 하 순서("분석 기준" 9번).
+9. `## 6. 캐릭터 교체 제안` — 5장의 강도 상·중 단점을 캐릭터 교체로 보완하는 방법("분석 기준" 10번). 표(교체할 캐릭터 | 대체 후보 | 교체 방식(같은 유형 / 유형 변경) | 해결하는 단점(5장의 어느 행인지, 강도 포함) | 새로 생기는 문제·징크스). 같은 유형 교체를 표 위쪽에, 유형 변경 교체를 아래쪽에 둔다. 표 아래에 제안마다 1~2줄 근거(밸런스 이동 방향 포함)를 단다.
+10. `## 7. 캐릭터별 존재감` — "높음"과 "낮음" 두 묶음만 쓴다(중간은 쓰지 않는다). 표로 쓰지 않는다. 답변에서는 `**존재감 높음** — 이름 · 이름 · …` 한 줄과 그 아래 이유 불릿, 이어서 `**존재감 낮음**`을 같은 형식으로 쓴다(PDF·PNG는 좌우 두 칸 패널, 2부 참고). 그다음 불균형 지점 + "균등 분배가 꼭 정답은 아니다(조용한 캐릭터 = 블러핑 공간)" 관점과 손볼 칸 제안. 손볼 칸 제안에는 교체안을 직접 쓰지 않고 "6장 참고"로 연결한다(같은 제안을 두 번 쓰지 않는다).
+11. `## 8. 판정할 때 미리 알아둘 점` — 징크스 위키 원문, 기타예외규칙 연결, 헷갈리기 쉬운 상호작용.
+12. `---` + 역질문 + 후속 제안(이미지화, PDF, 문서화 등).
 
 
 # 2부. 캡처형 이미지 제작
@@ -164,8 +166,8 @@ awk '/^## 요약/{p=1} /^## 진행/{p=0} p' <파일들> | grep -E "^- "
 <!doctype html>
 <html lang="ko"><head><meta charset="utf-8">
 <style>
-body{margin:0;background:#f5f4ef;font-family:"Noto Sans CJK KR","Noto Sans KR",sans-serif;color:#1f1e1c;}
-.wrap{box-sizing:border-box;width:1000px;margin:0 auto;padding:44px 52px 52px;background:#fbfaf6;}
+body{margin:0;background:#efe6d6 url(parchment-bg.webp) top center/1000px auto repeat-y;font-family:"Noto Sans CJK KR","Noto Sans KR",sans-serif;color:#1f1e1c;}
+.wrap{box-sizing:border-box;width:1000px;margin:0 auto;padding:44px 52px 52px;}
 h1{font-size:40px;font-weight:900;line-height:1.3;margin:0 0 28px;padding-bottom:20px;border-bottom:3px solid #1f1e1c;}
 p,li{font-size:17px;line-height:1.75;margin:0 0 12px;}
 h2{font-size:23px;margin:34px 0 14px;font-weight:700;}
@@ -175,16 +177,52 @@ blockquote p{margin:6px 0;}
 table{border-collapse:collapse;width:100%;margin:6px 0 18px;font-size:15.5px;line-height:1.6;}
 th,td{border:1px solid #d9d6cc;padding:9px 11px;vertical-align:top;text-align:left;}
 td:first-child,th:first-child{white-space:nowrap;}
-th{background:#eeebe2;font-weight:700;}
+th{background:rgba(214,202,178,.45);font-weight:700;}
 ul,ol{padding-left:26px;margin:0 0 14px;}
 ul ul{margin:6px 0 4px;}
 li{margin-bottom:6px;}
+li li{line-height:1.45;margin-bottom:2px;}   /* 2단계(빈 동그라미) 목록만 행간을 좁힌다 */
+ul ul,ol ul{margin:2px 0 4px;}
 strong{font-weight:700;}
+a{color:inherit;text-decoration:none;}
+a.good{color:#1f5fbf;} a.evil{color:#c0392b;}   /* 주민·외지인 파랑, 하수인·악마 빨강 */
+/* 5장 강도 게이지(요인 칸 안) */
+.lv{margin-top:5px;font-size:12.5px;color:#55524a;white-space:nowrap;}
+.gauge{display:inline-flex;gap:2px;vertical-align:middle;margin-right:6px;}
+.gauge i{width:18px;height:7px;border-radius:2px;background:#d6ccb8;}
+.g1 i:nth-child(-n+1),.g2 i:nth-child(-n+2),.g3 i:nth-child(-n+3){background:#8a2b1f;}
+.gv i{background:repeating-linear-gradient(45deg,#8a2b1f 0 3px,#d6ccb8 3px 6px);}
+/* 7장 존재감 패널 */
+.presence{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:6px 0 18px;}
+.presence section{border:1px solid #cfc5b1;border-radius:6px;padding:10px 14px;background:rgba(255,255,255,.35);page-break-inside:avoid;}
+.presence h3{margin:0 0 8px;font-size:16px;}
+.presence .hi h3::before{content:"▲ ";color:#8a2b1f;} .presence .lo h3::before{content:"▽ ";color:#7d7566;}
+.chips{margin:0 0 6px;line-height:2;}
+.chips a,.chips span{display:inline-block;padding:0 9px;margin:0 3px 3px 0;border:1px solid currentColor;border-radius:11px;font-size:14px;line-height:1.7;}
 </style></head><body><div class="wrap">
 <h1>{{시트이름}} 분석</h1>
 <!-- 답변 본문 그대로 -->
 </div></body></html>
 ```
+
+템플릿과 같은 폴더에 이 스킬 폴더의 `parchment-bg.webp`(포켓그리모어 양피지 배경)를 복사해 둔다.
+
+**5장 강도 게이지** — 요인 칸에 요인명을 쓰고 그 아래에 게이지를 둔다. 상은 `g3`, 중은 `g2`, 하는 `g1`, 변동은 `gv`(세 칸 모두 빗금):
+
+```html
+<td><strong>요인명</strong><div class="lv"><span class="gauge g3"><i></i><i></i><i></i></span>상</div></td>
+```
+
+**7장 존재감 패널** — 표 대신 좌우 두 칸으로 나눈다. 이름 칩 아래에 이유 불릿을 둔다:
+
+```html
+<div class="presence">
+  <section class="hi"><h3>존재감 높음</h3><p class="chips">이름 이름 …</p><ul><li>이유</li></ul></section>
+  <section class="lo"><h3>존재감 낮음</h3><p class="chips">이름 이름 …</p><ul><li>이유</li></ul></section>
+</div>
+```
+
+`link_names.py`를 쓰지 않는 PNG에서는 칩 이름을 `<span>`으로 감싼다.
 
 주의: `.wrap`에 `box-sizing:border-box`가 없으면 가로 스크롤이 생겨 이미지 폭이 두 배가 된다. 첫 열 `nowrap`은 "주민 13" 같은 짧은 라벨이 줄바꿈되는 것을 막는다.
 
@@ -222,6 +260,8 @@ with sync_playwright() as p:
 
 ```html
 <style>
+@page{size:A4;margin:0}
+.bg{position:fixed;inset:0;z-index:-1;background:#efe6d6 url(parchment-bg.webp) center/cover;}   /* 쪽마다 양피지 */
 tr{page-break-inside:avoid}
 h2{page-break-after:avoid}
 .newpage{page-break-before:always}
@@ -230,16 +270,16 @@ h2{page-break-after:avoid}
 .keep{page-break-inside:avoid}   /* 짧은 표: h2와 표를 함께 묶는다 */
 li{page-break-inside:avoid}
 @media print{
-  .wrap{width:auto;padding:0}   /* A4 너비를 넘지 않게 */
+  body{background:none}
+  .wrap{width:auto;padding:12mm 10mm;-webkit-box-decoration-break:clone;box-decoration-break:clone}   /* A4 너비, 쪽마다 위아래 여백 */
   p,li{font-size:14.5px;line-height:1.6;margin-bottom:8px}
+  li li{line-height:1.4;margin-bottom:2px}
   h1{font-size:32px} h2{font-size:20px} table{font-size:13.5px}
   blockquote p{margin:3px 0}
 }
-a{color:inherit;text-decoration:underline;text-decoration-color:#b9b3a3}
-a.good{color:#1f5fbf;text-decoration-color:#1f5fbf} /* 주민·외지인 */
-a.evil{color:#c0392b;text-decoration-color:#c0392b} /* 하수인·악마 */
 </style>
 
+<div class="bg"></div>
 <!-- 1쪽: h1 · 결론 · 난도 · 인용 블록 -->
 <div class="newpage sheet"><img src="sheet1.png" alt="캐릭터 시트"></div>
 <!-- 시트가 여러 장이면 같은 div를 장마다 반복 -->
@@ -249,11 +289,12 @@ a.evil{color:#c0392b;text-decoration-color:#c0392b} /* 하수인·악마 */
 </div>
 ```
 
+- 배경은 `.bg`(고정 위치 요소)가 쪽마다 반복되어 종이 끝까지 양피지를 깐다. 그래서 PDF 여백은 0으로 두고, 위아래·좌우 여백은 `.wrap`의 안쪽 여백(`box-decoration-break:clone`)으로 낸다.
 - 쪽 나누기는 `page-break-before:always`(`.newpage`)로 한다.
 - 장 제목(`h2`)이 표와 다른 쪽으로 갈라지지 않게 한다: `h2`에 `page-break-after:avoid`를 두고, 표가 짧으면(한 쪽 안에 들어가면) `h2`와 표를 `.keep`으로 묶는다. 긴 표는 묶지 않는다(빈 쪽이 생긴다).
 - 인쇄용 글자 크기는 위 `@media print` 값으로 고정한다. 목록 항목은 `li{page-break-inside:avoid}`로 쪽 경계에서 잘리지 않게 한다.
 - **1쪽 넘침:** 1쪽에는 제목, 결론, 난도 별점, 출처 인용 블록이 모두 들어가야 한다. 넘쳤다면 글자 크기를 더 줄이지 말고, 결론 문단과 난도 근거 문장을 줄여서 1쪽에 맞춘 뒤 다시 만든다. 분석 답변 본문에도 같은 수정을 반영한다.
-- **긴 표의 머리 줄만 쪽 끝에 남으면**(예: 4장), 그 장을 `.newpage`로 새 쪽에서 시작한다.
+- **긴 표의 머리 줄만 쪽 끝에 남으면**(예: 5장), 그 장을 `.newpage`로 새 쪽에서 시작한다.
 
 ### 캐릭터 이름 링크
 
@@ -275,7 +316,7 @@ import os
 with sync_playwright() as p:
     b=p.chromium.launch(); pg=b.new_page()
     pg.goto('file://'+os.path.abspath('cap_pdf.html')); pg.wait_for_timeout(500)
-    pg.pdf(path='out/<파일명>_분석.pdf',format='A4',print_background=True,margin={'top':'12mm','bottom':'12mm','left':'10mm','right':'10mm'}); b.close()
+    pg.pdf(path='out/<파일명>_분석.pdf',print_background=True,prefer_css_page_size=True); b.close()
 "
 ```
 

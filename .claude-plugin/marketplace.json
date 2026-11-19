@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "시계탑에 흐른 피(Blood on the Clocktower) 한국어 지식 원천과 도구 모음",
-    "version": "0.1.5"
+    "version": "0.1.6"
   },
   "plugins": [
     {
       "name": "all-about-botc",
       "source": "./plugins/all-about-botc",
       "description": "시계탑에 흐른 피(BOTC) 룰 판정 조언, 커스텀 스크립트 분석, 홈브류 설계·스크립트 JSON 제작, 이야기꾼 퀴즈 출제. 번역 위키·룰북·공식 용어집·기타 예외 규칙 포함.",
-      "version": "0.1.5",
+      "version": "0.1.6",
       "author": { "name": "CastleQ" },
       "category": "games",
       "keywords": ["botc", "blood-on-the-clocktower", "시계탑에흐른피", "시계피", "korean"]

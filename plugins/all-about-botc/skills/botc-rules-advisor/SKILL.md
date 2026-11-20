@@ -25,6 +25,7 @@ description: 시계탑에 흐른 피(Blood on the Clocktower, BOTC, 시계피) �
 | 기타 예외 규칙 (판단 원칙·TPI 공식 답변·비공인 징크스) | `references/기타예외규칙.md` | 상호작용·판정·이야기꾼 재량 질문 |
 | 공식 용어집 (영문·한글 공식어·설명) | `references/Glossary_filled.csv` | 용어 뜻·번역어 확인 |
 | 번역 위키 (캐릭터 181종 + 규칙 문서) | `references/wiki/` — 먼저 `references/wiki/INDEX.md` | 캐릭터 능력·진행 방법·예시·징크스 |
+| 전체 캐릭터 데이터 (공식·실험·유출·삭제 302종, JSON) | `references/characters-all.json` — `edition`(TB·BMR·SNV·T&F·CAR·Etc.=공식, LKD=유출, SCR=삭제)·`official` 확인 | 위키에 없는 유출·삭제 캐릭터, 밤 순번·토큰·징크스 일괄 조회. 유출·삭제 캐릭터는 공식 규칙이 아님을 밝힌다 |
 | 룰북 (한국어) | `references/rulebook-ko.md` | 기본 규칙 |
 | 룰북 (영어 원문) | `references/rulebook-en.md` | 번역 확인·원문 대조 |
 | 영상 콘텐츠 제작 가이드 (TPI) | `references/video-content-guide.md` | 방송·영상 제작 질문 |

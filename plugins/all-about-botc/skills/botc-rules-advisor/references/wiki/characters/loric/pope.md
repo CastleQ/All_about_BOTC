@@ -5,7 +5,7 @@ name_en: "Pope"
 type: "설화 (loric)"
 edition: "실험 캐릭터 (experimental)"
 ability: "게임에 참여하는 동일한 선한 캐릭터가 여럿 있습니다. 또한 그들은 블러핑용 캐릭터일 수도 있습니다."
-flavor: "...가장 아름다운 분이여."
+flavor: "...가장 아름다운 분이시여."
 artist: "Chloe McDougall"
 icon: https://castleq.github.io/pocket-grimoire/img/official/pope_0.webp
 page: https://castleq.github.io/botc-wiki-ko/c/pope.html

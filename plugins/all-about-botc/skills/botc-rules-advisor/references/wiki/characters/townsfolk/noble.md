@@ -5,7 +5,7 @@ name_en: "Noble"
 type: "주민 (townsfolk)"
 edition: "실험 캐릭터 (experimental)"
 ability: "게임 시작 시, 플레이어 3명 중 1명이 악한 팀임을 알게 됩니다(3명 중 단 1명만 악한 팀)."
-flavor: "비꼼이야말로 가장 수준 낮은 재치라는 건 사실이지요. 하지만 선생의 비판에 답하자면, 그래도 그것 역시 재치의 한 형태이긴 합니다."
+flavor: "비꼬는 것이야말로 가장 수준 낮은 유머라는 건 사실이지요. 하지만 선생의 비판에 답하자면, 그래도 그것 역시 유머의 하나이긴 합니다."
 artist: "Caitlin Murphy"
 icon: https://castleq.github.io/pocket-grimoire/img/official/noble_0.webp
 page: https://castleq.github.io/botc-wiki-ko/c/noble.html

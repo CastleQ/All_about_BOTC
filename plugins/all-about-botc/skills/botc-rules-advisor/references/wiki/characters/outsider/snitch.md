@@ -5,7 +5,7 @@ name_en: "Snitch"
 type: "외지인 (outsider)"
 edition: "실험 캐릭터 (experimental)"
 ability: "각 하수인은 블러핑용 캐릭터 3명을 알게 됩니다."
-flavor: "존이 그랬어."
+flavor: "쟤가 그랬어."
 artist: "John Grist"
 icon: https://castleq.github.io/pocket-grimoire/img/official/snitch_0.webp
 page: https://castleq.github.io/botc-wiki-ko/c/snitch.html

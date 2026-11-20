@@ -58,4 +58,4 @@ source: "https://wiki.bloodontheclocktower.com/Clockmaker (판 2967, 2025-11-19 
 
 ## 징크스
 
-- 시계공 + 소환사: 소환사는 시계공에게 악마로 인식됩니다.
+- 시계공 + 소환사: 소환사는 시계공에게 악마로 위장되어 보입니다.

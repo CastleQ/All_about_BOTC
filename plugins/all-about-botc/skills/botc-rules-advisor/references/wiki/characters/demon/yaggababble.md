@@ -5,7 +5,7 @@ name_en: "Yaggababble"
 type: "악마 (demon)"
 edition: "실험 캐릭터 (experimental)"
 ability: "게임 시작 시, 비밀 문구를 알게 됩니다. 오늘 당신이 이를 공개적으로 발언한 횟수 만큼 플레이어가 사망할 수 있습니다."
-flavor: "모르그 가의 살인 사건이라고? ㅗㅏㄴㅈㅓㄴ ㄱㅓㅈㅣㅅㅁㅏㄹ ㄱㅏㅌㅏ! 바스커빌 가의 사냥개라고? ㅗㅏㄴㅈㅓㄴ ㄱㅓㅈㅣㅅㅁㅏㄹ ㄱㅏㅌㅏ! 나일 강의 죽음이라고? ㅗㅏㄴㅈㅓㄴ ㄱㅓㅈㅣㅅㅁㅏㄹ ㄱㅏㅌㅏ!"
+flavor: "모르그 가의 살인 사건이라고? ㄱㅓㅈㅣㅅㅁㅏㄹ ㄱㅏㅌㅏ! 바스커빌 가의 사냥개라고? ㄱㅓㅈㅣㅅㅁㅏㄹ ㄱㅏㅌㅏ! 나일 강의 죽음이라고? ㄱㅓㅈㅣㅅㅁㅏㄹ ㄱㅏㅌㅏ!"
 artist: "Lachlan Bastiaen"
 icon: https://castleq.github.io/pocket-grimoire/img/official/yaggababble_0.webp
 page: https://castleq.github.io/botc-wiki-ko/c/yaggababble.html
@@ -74,4 +74,4 @@ source: "https://wiki.bloodontheclocktower.com/Yaggababble (판 3078, 2026-03-20
 
 ## 징크스
 
-- 야가바블 + 구마사제: 구마사제가 야가바블을 선택하면, 야가바블은 오늘 밤 죽이지 않습니다.
+- 야가바블 + 구마사제: 구마사제가 야가바블을 선택한다면, 야가바블은 오늘 밤 플레이어를 죽일 수 없습니다.

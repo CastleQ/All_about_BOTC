@@ -5,7 +5,7 @@ name_en: "Acrobat"
 type: "주민 (townsfolk)"
 edition: "실험 캐릭터 (experimental)"
 ability: "매일 밤*, 플레이어 1명을 선택합니다: 그가 현재 또는 오늘 밤 취함/중독 상태가 되면 당신은 사망합니다."
-flavor: "자, 여러분 모두 어서 오십시오. 세상에서 가장 위대한 쇼가 지금 시작됩니다."
+flavor: "자, 신사 숙녀 여러분 모두 환영합니다. 세상에서 가장 위대한 쇼를 지금 시작하겠습니다!"
 artist: "Chloe McDougall"
 icon: https://castleq.github.io/pocket-grimoire/img/official/acrobat_0.webp
 page: https://castleq.github.io/botc-wiki-ko/c/acrobat.html

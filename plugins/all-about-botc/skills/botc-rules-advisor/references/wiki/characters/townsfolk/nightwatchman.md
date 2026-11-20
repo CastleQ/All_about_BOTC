@@ -4,7 +4,7 @@ name: "야경꾼"
 name_en: "Nightwatchman"
 type: "주민 (townsfolk)"
 edition: "실험 캐릭터 (experimental)"
-ability: "게임당 1번, 밤에 플레이어 1명을 선택합니다: 그는 당신이 야경꾼임을 알게 됩니다."
+ability: "게임당 1번, 밤에, 플레이어 1명을 선택합니다: 그는 당신이 야경꾼임을 알게 됩니다."
 flavor: "밤은 차갑고 외롭지만, 내겐 벗이 있다. 달과 별, 시원한 바람, 그리고 자갈길 위를 두드리는 가죽 장화의 부드러운 소리 말이다. 저기 탁한 창문 너머로 촛불이 흔들리고 있군..."
 artist: "Chloe McDougall"
 icon: https://castleq.github.io/pocket-grimoire/img/official/nightwatchman_0.webp
@@ -14,11 +14,11 @@ source: "https://wiki.bloodontheclocktower.com/Nightwatchman (판 2827, 2025-06-
 
 # 야경꾼 (Nightwatchman)
 
-**능력:** 게임당 1번, 밤에 플레이어 1명을 선택합니다: 그는 당신이 야경꾼임을 알게 됩니다.
+**능력:** 게임당 1번, 밤에, 플레이어 1명을 선택합니다: 그는 당신이 야경꾼임을 알게 됩니다.
 
 ## 요약
 
-"게임당 1번, 밤에 플레이어 1명을 선택합니다: 그는 당신이 야경꾼임을 알게 됩니다."
+"게임당 1번, 밤에, 플레이어 1명을 선택합니다: 그는 당신이 야경꾼임을 알게 됩니다."
 
 야경꾼은 플레이어 1명에게 정체를 알립니다.
 

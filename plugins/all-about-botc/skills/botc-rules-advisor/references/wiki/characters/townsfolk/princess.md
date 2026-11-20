@@ -5,7 +5,7 @@ name_en: "Princess"
 type: "주민 (townsfolk)"
 edition: "실험 캐릭터 (experimental)"
 ability: "당신의 첫 번째 낮에, 당신이 플레이어 1명을 지목하여 처형한다면, 악마는 오늘 밤 누구도 죽이지 않습니다."
-flavor: "우리가 하는 말은 비단 실에 매인 사냥개와도 같사옵니다, 귀한 제후들이여. 부디 친절로 그것들을 곧게 엮어주소서. 그렇지 않으면 고삐가 풀려 우리 궁정을 찢어발길지니."
+flavor: "우리가 하는 말은 비단 실에 매인 사냥개와도 같습니다, 귀한 제후들이여. 부디 친절로 그것들을 곧게 엮어주시길, 그렇지 않으면 고삐가 풀려 우리 궁정을 찢어발길테니."
 artist: "Chloe McDougall"
 icon: https://castleq.github.io/pocket-grimoire/img/official/princess_0.webp
 page: https://castleq.github.io/botc-wiki-ko/c/princess.html
@@ -63,5 +63,5 @@ source: "https://wiki.bloodontheclocktower.com/Princess (판 3003, 2025-11-19 �
 
 ## 징크스
 
-- 공주 + 알 하디키아: 공주가 자신의 첫 번째 낮에 플레이어를 지목해 처형했다면, 오늘 밤 알 하디키아 때문에 죽는 사람은 없습니다.
-- 공주 + 식인종: 식인종이 오늘 공주를 지목해 처형해서 죽였다면, 악마는 오늘 밤 죽이지 않습니다.
+- 공주 + 알 하디키아: 공주가 자신의 첫 번째 낮에 플레이어를 지목하고 처형한 경우, 오늘 밤에 알 하디키아에게 아무도 사망하지 않습니다.
+- 공주 + 식인종: 식인종이 오늘 공주를 지목하고 처형하여 죽였다면, 악마는 오늘 밤 플레이어를 죽일 수 없습니다.

@@ -66,4 +66,4 @@ source: "https://wiki.bloodontheclocktower.com/Investigator (판 2983, 2025-11-1
 
 ## 징크스
 
-- 수사관 + 재상: 이야기꾼은 재상이 참여한다고 선언하지 않습니다.
+- 수사관 + 재상: 이야기꾼은 재상이 참여 중이라고 선언하지 않습니다.
